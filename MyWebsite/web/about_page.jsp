@@ -1,7 +1,7 @@
 <%-- 
     Document   : about_page
     Created on : Jun 19, 2019, 11:19:29 AM
-    Author     : Lee
+    Author     : Alfi Naufal
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
